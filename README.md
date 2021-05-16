@@ -11,4 +11,4 @@ Este trabalho em 4 seções, são elas:<br/>
 - **Classificação:** nesta parte os bairros de São Paulo são classificados de acordo com seu potencial (baixo, médio e alto) de investimento que eles têm para a DF; 
 - **Clusterização:** o último tópico visa agrupar os bairros com relação a proximidade dos dados.
 <br/>
-O arquivo [Relatório Técnico] (https://github.com/lucasvictorsp/Data-Science_Project_DF/blob/main/doc/Relat%C3%B3rio%20T%C3%A9cnico.pdf) contém a descrição da análise de forma detalhada.
+O arquivo [Relatório](https://github.com/lucasvictorsp/Data-Science_Project_DF/blob/main/doc/Relat%C3%B3rio%20T%C3%A9cnico.pdf) contém a descrição da análise de forma detalhada.
